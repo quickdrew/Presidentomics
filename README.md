@@ -3,6 +3,8 @@
 
 The Presidentomics is a presidential economics grading app is an interactive web application designed to evaluate the economic performance of U.S. presidents since 1960. The app compares key economic metrics—GDP growth, unemployment, and inflation—and allows users to dynamically adjust weights for each metric to reflect their own priorities. Users can explore rankings of presidents based on total change in the metrics, area under the curve (AUC) for their tenure, or a combination of both.
 
+**Data stops after Q1 2024**
+
 ## Key Features
 
 ### 1. Economic Metric Visualization
